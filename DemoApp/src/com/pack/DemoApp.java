@@ -7,6 +7,8 @@ public class DemoApp {
 	    System.out.println("Eclipse to GitHub");
 	    
 	    System.out.println("Second Commit");
+	    
+	    System.out.print("Third Commit");
 
 	}
 
