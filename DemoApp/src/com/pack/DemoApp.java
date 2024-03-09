@@ -9,6 +9,7 @@ public class DemoApp {
 	    System.out.println("Second Commit");
 	    
 	    System.out.print("Third Commit");
+	    System.out.println("Fifth Commit");
 
 	}
 
